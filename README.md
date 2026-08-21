@@ -19,7 +19,7 @@
 * 💬 Ask me about **AWS, DevOps, Linux, Networking**
 * 📫 Reach me at **[venkataguruswamich@gmail.com](mailto:venkataguruswamich@gmail.com)**
 * 👨‍💻 All of my projects are available at https://github.com/venkataguruswamich/venkataguruswamich
-* 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/10B2vUrV6GExoNzvfEhKheStC0PNrZBMy)
+* 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11nMTMyEIl7WGD2cuHeW-Mct9kxdTLBzO/view?usp=drive_link)
 
 ---
 
