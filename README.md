@@ -5,7 +5,7 @@
   <p><i>Specializing in declarative Infrastructure as Code, zero-downtime CI/CD pipelines, container orchestration, and high-availability enterprise environments.</i></p>
 
   <p>
-    <a href="https://linkedin.com/in/venkata-guruswami-cheeraboina" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/venkata-guruswami-cheeraboina-229a10277/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:venkataguruswamich@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://drive.google.com/file/d/11nMTMyEIl7WGD2cuHeW-Mct9kxdTLBzO/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
     <a href="https://venkataguruswami.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
