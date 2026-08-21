@@ -19,7 +19,8 @@
 
 ---
 
-### 📌 Engineering Overview
+### 📋 Professional Overview
+
 
 * 💼 **Core Experience:** **3+ years** managing enterprise-grade Linux/Windows infrastructure, server hardening, and high-availability systems; **1+ year** designing, provisioning, and operating cloud-native workloads on **AWS**.
 * 🛠️ **Infrastructure as Code (IaC):** Modular multi-environment provisioning using **Terraform** (remote state locking with S3 + DynamoDB) and configuration management with **Ansible**.
