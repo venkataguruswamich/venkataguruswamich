@@ -1,74 +1,71 @@
-### Hi 👋, I'm Venkata Guruswami Cheeraboina
+<div align="center">
+  <h1>Hi 👋, I'm Venkata Guruswami Cheeraboina</h1>
+  <h3>🚀 Cloud & DevOps Engineer | Ex-System Administrator</h3>
+  <p><i>Bridging the gap between robust system administration and scalable, automated cloud architectures.</i></p>
 
-**`Cloud & DevOps Engineer | System Administrator`**
+  <p>
+    <a href="https://linkedin.com/in/venkata-guruswami-cheeraboina" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:venkataguruswamich@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://drive.google.com/file/d/11nMTMyEIl7WGD2cuHeW-Mct9kxdTLBzO/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/></a>
+    <a href="https://venkataguruswami.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
+  </p>
+</div>
+
 ---
 
-<p align="left">
-   <a href="https://github.com/Gurus41?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Gurus41?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="https://github.com/Gurus41?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Gurus41?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+### 📌 About Me
+
+* 💼 **Infrastructure Experience:** **3+ years** in System Administration & Server Infrastructure + **1+ year** as an **AWS Cloud Engineer**.
+* ⚙️ **Core Focus:** Automating CI/CD pipelines, Infrastructure as Code (IaC), container orchestration, and high-availability systems.
+* 🔭 **Currently Building:** Production-ready GitOps workflows with ArgoCD and provisioning multi-tier cloud infrastructure with Terraform.
+* 💬 **Ask Me About:** AWS Cloud, Linux Automation, Bash Scripting, CI/CD with Jenkins/GitLab, Docker & Kubernetes.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,bash,terraform,ansible,docker,kubernetes,jenkins,gitlab,githubactions,git,grafana,prometheus&perline=8" />
+</div>
+
+<br>
+
+| Domain | Core Competencies & Tools |
+| :--- | :--- |
+| **Cloud Platforms** | AWS (EC2, VPC, S3, IAM, RDS, Route53, ECS), Azure, GCP |
+| **Infrastructure as Code (IaC)** | Terraform, Ansible |
+| **Containers & Orchestration** | Docker, Kubernetes (K8s) |
+| **CI/CD & GitOps** | Jenkins, GitLab CI, GitHub Actions, ArgoCD |
+| **OS & Scripting** | Linux (Ubuntu, RHEL, CentOS), Bash/Shell Scripting, Windows Server |
+| **Monitoring & Observability** | Prometheus, Grafana, CloudWatch |
+| **Version Control & Collaboration** | Git, GitHub, GitLab |
+
+---
+
+### 🚀 Key Projects & Implementations
+
+* 🏗️ **[Automated AWS Infrastructure with Terraform](https://github.com/venkataguruswamich)**  
+  *Provisioned a highly available, multi-tier VPC architecture with auto-scaling EC2 instances, RDS multi-AZ failover, and least-privilege IAM policies.*
+
+* 🚢 **[Kubernetes CI/CD Microservices Pipeline](https://github.com/venkataguruswamich)**  
+  *Automated build, test, and container deployment to a Kubernetes cluster using Jenkins and Docker with zero-downtime rolling updates.*
+
+* 🔄 **[GitOps Deployment with ArgoCD](https://github.com/venkataguruswamich)**  
+  *Implemented declarative continuous delivery syncing K8s manifests directly from Git repository states.*
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=venkataguruswamich&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/venkataguruswamich?label=Followers&style=for-the-badge&color=236ad3" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/venkataguruswamich?label=Total%20Stars&style=for-the-badge&color=55960c" alt="Stars" />
 </p>
 
 ---
 
-* 🔭 I’m currently working on **Cloud & DevOps Real-Time Projects**
-* 🌱 I’m currently learning **Kubernetes, Terraform, Advanced AWS**
-* 👯 I’m looking to collaborate on **DevOps & Cloud Projects**
-* 🤝 I’m looking for help with **Advanced Cloud Architecture & Automation**
-* 💬 Ask me about **AWS, DevOps, Linux, Networking**
-* 📫 Reach me at **[venkataguruswamich@gmail.com](mailto:venkataguruswamich@gmail.com)**
-* 👨‍💻 All of my projects are available at https://github.com/venkataguruswamich/venkataguruswamich
-* 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11nMTMyEIl7WGD2cuHeW-Mct9kxdTLBzO/view?usp=drive_link)
-
----
-
-## 🧰 Languages and Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="41" alt="linux logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="41" alt="bash logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="41" alt="windows8 logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="41" alt="ansible logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="41" alt="github logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="41" alt="git logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="41" alt="gitlab logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="41" alt="amazonwebservices logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="41" alt="jenkins logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="41" alt="docker logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="41" alt="kubernetes logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="41" alt="terraform logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="41" alt="azure logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="41" alt="googlecloud logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="41" alt="grafana logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="41" alt="argocd logo"  />
+<div align="center">
+  <b>Let's build reliable, automated systems together.</b><br>
+  Open for full-time Cloud & DevOps opportunities.
 </div>
-
-
----
-
-###
-
-<p align="center">About me<br>3+ years of experience in system administration and infrastructure, with strong expertise in server management, troubleshooting, and high-availability systems. 1 year of experience as a Cloud Engineer on AWS ☁️. Currently upskilling through hands-on projects in Docker, Kubernetes, Terraform, CI/CD, Azure & GCP (Learning) and transitioning into a full DevOps role.</p>
-
-###
-
-
-<div align="center"> <a href="https://linkedin.com/in/venkata-guruswami-cheeraboina" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /> </a> <a href="mailto:venkataguruswamich@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /> </a> <a href="https://discord.com/invite/V5G6aUBhJ" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" /> </a> <a href="https://venkataguruswami.blogspot.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/300/300221.png" width="52" height="40" alt="blog logo" /> </a> </div>
-
-###
