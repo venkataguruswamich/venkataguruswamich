@@ -1,5 +1,11 @@
 <div align="center">
   <h1>Hi 👋, I'm Venkata Guruswami Cheeraboina</h1>
+
+  <!-- ANIMATED ROLES -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=650&lines=AWS+Cloud+Architecture+%26+Automation;Infrastructure+as+Code+via+Terraform;Kubernetes+%26+Docker+Containerization;Production+CI%2FCD+%26+GitOps+Workflows" alt="Typing SVG" />
+</a>
+
   <h3>☁️ Cloud & DevOps Engineer | Infrastructure Automation Specialist</h3>
   <p><b>SysAdmin Foundation (3+ Yrs) ➔ AWS Cloud & DevOps Engineering (1+ Yr)</b></p>
   <p><i>Specializing in declarative Infrastructure as Code, zero-downtime CI/CD pipelines, container orchestration, and high-availability enterprise environments.</i></p>
@@ -31,62 +37,91 @@
 ---
 
 ### 🛠️ Technical Competencies & Tooling
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,bash,terraform,ansible,docker,kubernetes,jenkins,gitlab,githubactions,git,grafana,prometheus&perline=8" />
-  
-  <br><br>
 
-  <table align="center">
-    <thead>
-      <tr>
-        <th align="center">Domain</th>
-        <th align="center">Technologies, Services & Core Capabilities</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center"><b>AWS Cloud Services</b></td>
-        <td align="center"><b>Compute:</b> EC2, Auto Scaling, ECS, Lambda<br><b>Networking:</b> VPC, Subnets, NAT Gateway, Route53, ALB/NLB, Security Groups<br><b>Storage & Database:</b> S3, EBS, EFS, RDS (Multi-AZ), DynamoDB<br><b>Security & Governance:</b> IAM (RBAC/Least Privilege), KMS, CloudTrail</td>
-      </tr>
-      <tr>
-        <td align="center"><b>Infrastructure as Code</b></td>
-        <td align="center"><b>Terraform:</b> Reusable Modules, Workspaces, Remote State Backends<br><b>Ansible:</b> Playbooks, Roles, Automated Server Provisioning & Patching</td>
-      </tr>
-      <tr>
-        <td align="center"><b>Containerization & K8s</b></td>
-        <td align="center"><b>Docker:</b> Multi-Stage Builds, Docker Compose, Image Optimization<br><b>Kubernetes:</b> Deployments, Ingress Controllers, ConfigMaps, Secrets, HPA</td>
-      </tr>
-      <tr>
-        <td align="center"><b>CI/CD & Automation</b></td>
-        <td align="center"><b>Pipelines:</b> Jenkins (Declarative Pipelines), GitLab CI, GitHub Actions<br><b>GitOps:</b> ArgoCD Declarative Sync & Automated Rollbacks<br><b>Scripting:</b> Bash/Shell Scripting, Linux Automation</td>
-      </tr>
-      <tr>
-        <td align="center"><b>Observability & System Admin</b></td>
-        <td align="center"><b>Monitoring:</b> Prometheus, Grafana, AWS CloudWatch Metrics & Alarms<br><b>OS Administration:</b> Linux (RHEL, Ubuntu, CentOS), Troubleshooting, Kernel Tuning</td>
-      </tr>
-    </tbody>
-  </table>
+<!-- ANIMATED MOVING ICONS TICKER -->
+<marquee behavior="scroll" direction="left" scrollamount="7">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="50" height="50"/>
+</marquee>
+
+<br><br>
+
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="30%">Domain</th>
+      <th align="center" width="70%">Technologies, Services & Core Capabilities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>AWS Cloud Services</b></td>
+      <td><b>Compute:</b> EC2, Auto Scaling, ECS, Lambda<br><b>Networking:</b> VPC, Subnets, NAT Gateway, Route53, ALB/NLB, Security Groups<br><b>Storage & Database:</b> S3, EBS, EFS, RDS (Multi-AZ), DynamoDB<br><b>Security & Governance:</b> IAM (RBAC/Least Privilege), KMS, CloudTrail</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Infrastructure as Code</b></td>
+      <td><b>Terraform:</b> Reusable Modules, Workspaces, Remote State Backends<br><b>Ansible:</b> Playbooks, Roles, Automated Server Provisioning & Patching</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Containerization & K8s</b></td>
+      <td><b>Docker:</b> Multi-Stage Builds, Docker Compose, Image Optimization<br><b>Kubernetes:</b> Deployments, Ingress Controllers, ConfigMaps, Secrets, HPA</td>
+    </tr>
+    <tr>
+      <td align="center"><b>CI/CD & Automation</b></td>
+      <td><b>Pipelines:</b> Jenkins (Declarative Pipelines), GitLab CI, GitHub Actions<br><b>GitOps:</b> ArgoCD Declarative Sync & Automated Rollbacks<br><b>Scripting:</b> Bash/Shell Scripting, Linux Automation</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Observability & System Admin</b></td>
+      <td><b>Monitoring:</b> Prometheus, Grafana, AWS CloudWatch Metrics & Alarms<br><b>OS Administration:</b> Linux (RHEL, Ubuntu, CentOS), Troubleshooting, Kernel Tuning</td>
+    </tr>
+  </tbody>
+</table>
+
 </div>
 
 ---
 
-### 🚀 Production-Grade Architectures & Projects
+### 📂 Production-Grade Projects & Implementations
 
-* 🏗️ **[Automated Multi-Tier AWS Infrastructure via Terraform](https://github.com/venkataguruswamich)**  
-  *Provisioned an end-to-end resilient architecture including a custom VPC, Public/Private subnets across multiple AZs, Auto Scaling Group behind an Application Load Balancer, and RDS PostgreSQL with automated failover.*
+<details open>
+<summary><b>🏗️ Automated Multi-Tier AWS Infrastructure via Terraform</b></summary>
+<br>
 
-* 🚢 **[Enterprise Microservices CI/CD with Docker & Kubernetes](https://github.com/venkataguruswamich)**  
-  *Engineered a declarative Jenkins pipeline that automates linting, multi-stage Docker builds, vulnerability scanning, and rolling deployments to a Kubernetes cluster with zero downtime.*
+* ⚙️ **Stack:** `Terraform` `AWS VPC` `Auto Scaling` `Application Load Balancer` `RDS Multi-AZ` `S3`
+* 📌 **Architecture:** Automated deployment of high-availability multi-AZ VPC architecture with strict security group isolation, dynamic auto-scaling EC2 tiers, and automated database failover.
+* 🔗 **Repository:** [View on GitHub](https://github.com/venkataguruswamich)
+</details>
 
-* 🔄 **[GitOps Deployment Pipeline with ArgoCD](https://github.com/venkataguruswamich)**  
-  *Implemented declarative GitOps workflows syncing Helm charts/Kubernetes manifests directly from Git repositories, automating configuration drift detection and rollbacks.*
+<details open>
+<summary><b>🚢 Enterprise Microservices CI/CD Pipeline & Kubernetes</b></summary>
+<br>
 
-* 📜 **[Linux System Hardening & Configuration Automation](https://github.com/venkataguruswamich)**  
-  *Developed reusable Ansible playbooks for automated server patching, user account management, SSH hardening, and centralized log collection.*
+* ⚙️ **Stack:** `Jenkins` `Docker` `Kubernetes (EKS)` `Bash` `Git`
+* 📌 **Architecture:** Configured continuous integration pipelines to build multi-stage Docker images, execute security scans, and trigger rolling updates to K8s clusters with zero downtime.
+* 🔗 **Repository:** [View on GitHub](https://github.com/venkataguruswamich)
+</details>
+
+<details>
+<summary><b>🔄 GitOps Continuous Delivery with ArgoCD</b></summary>
+<br>
+  
+* ⚙️ **Stack:** `ArgoCD` `Kubernetes` `Helm` `GitHub`
+* 📌 **Architecture:** Designed declarative GitOps workflows syncing live Kubernetes clusters directly with declarative Git manifests, including automatic drift detection and rollbacks.
+* 🔗 **Repository:** [View on GitHub](https://github.com/venkataguruswamich)
+</details>
 
 ---
-
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
