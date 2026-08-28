@@ -100,7 +100,7 @@
 
 * ⚙️ **Stack:** `Terraform` `AWS VPC` `Auto Scaling` `Application Load Balancer` `RDS Multi-AZ` `S3`
 * 📌 **Architecture:** Automated deployment of high-availability multi-AZ VPC architecture with strict security group isolation, dynamic auto-scaling EC2 tiers, and automated database failover.
-* 🔗 **Repository:** [View on GitHub](https://github.com/venkataguruswamich)
+* 🔗 **Repository:** [View on GitHub](https://github.com/venkataguruswamich/aws-multi-tier-infra)
 </details>
 
 <details open>
