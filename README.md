@@ -38,20 +38,20 @@
 ### 🛠️ Technical Competencies & Tooling
 
 <div align="center">
-  <!-- TECHNOLOGY ICONS: AWS width compensates for internal image whitespace; others are uniform 56px -->
+  <!-- TECHNOLOGY ICONS: local assets with consistent 60px tile sizes -->
   <p>
-    <img src="./aws-logo.png" alt="AWS" width="64" height="56" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="56" height="56" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="56" height="56" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="56" height="56" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="56" height="56" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="56" height="56" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="Argo CD" width="56" height="56" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="56" height="56" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="56" height="56" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="56" height="56" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="56" height="56" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="56" height="56" />
+    <img src="./assets/aws.png" alt="AWS" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/terraform.svg" alt="Terraform" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/kubernetes.svg" alt="Kubernetes" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/docker.svg" alt="Docker" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/jenkins.svg" alt="Jenkins" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/ansible.svg" alt="Ansible" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/argocd.svg" alt="Argo CD" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/linux.svg" alt="Linux" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/bash.svg" alt="Bash" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/git.svg" alt="Git" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/grafana.svg" alt="Grafana" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/prometheus.svg" alt="Prometheus" width="60" height="60" />
   </p>
 
   <table align="center" width="100%">
