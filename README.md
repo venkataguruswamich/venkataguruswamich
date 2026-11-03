@@ -40,7 +40,7 @@
 <div align="center">
   <!-- TECHNOLOGY ICONS -->
   <p>
-    <img src="./assets/aws-logo.png" alt="AWS" width="50" height="50" />&nbsp;&nbsp;
+    <img src="./aws-logo.png" alt="AWS" width="50" height="50" />&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50" />&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50" />&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />&nbsp;&nbsp;
