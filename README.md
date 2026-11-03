@@ -38,20 +38,20 @@
 ### 🛠️ Technical Competencies & Tooling
 
 <div align="center">
-  <!-- TECHNOLOGY ICONS: local assets with consistent 60px tile sizes -->
+  <!-- DEVSECOPS TOOLCHAIN: Version Control → OS/Scripting → Cloud/IaC → Containers → CI/CD/GitOps → Observability -->
   <p>
-    <img src="./assets/aws.png" alt="AWS" width="60" height="60" />&nbsp;&nbsp;
-    <img src="./assets/terraform.svg" alt="Terraform" width="60" height="60" />&nbsp;&nbsp;
-    <img src="./assets/kubernetes.svg" alt="Kubernetes" width="60" height="60" />&nbsp;&nbsp;
-    <img src="./assets/docker.svg" alt="Docker" width="60" height="60" />&nbsp;&nbsp;
-    <img src="./assets/jenkins.svg" alt="Jenkins" width="60" height="60" />&nbsp;&nbsp;
-    <img src="./assets/ansible.svg" alt="Ansible" width="60" height="60" />&nbsp;&nbsp;
-    <img src="./assets/argocd.svg" alt="Argo CD" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/git.svg" alt="Git" width="60" height="60" />&nbsp;&nbsp;
     <img src="./assets/linux.svg" alt="Linux" width="60" height="60" />&nbsp;&nbsp;
     <img src="./assets/bash.svg" alt="Bash" width="60" height="60" />&nbsp;&nbsp;
-    <img src="./assets/git.svg" alt="Git" width="60" height="60" />&nbsp;&nbsp;
-    <img src="./assets/grafana.svg" alt="Grafana" width="60" height="60" />&nbsp;&nbsp;
-    <img src="./assets/prometheus.svg" alt="Prometheus" width="60" height="60" />
+    <img src="./assets/aws.png" alt="AWS" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/terraform.svg" alt="Terraform" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/ansible.svg" alt="Ansible" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/docker.svg" alt="Docker" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/kubernetes.svg" alt="Kubernetes" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/jenkins.svg" alt="Jenkins" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/argocd.svg" alt="Argo CD" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/prometheus.svg" alt="Prometheus" width="60" height="60" />&nbsp;&nbsp;
+    <img src="./assets/grafana.svg" alt="Grafana" width="60" height="60" />
   </p>
 
   <table align="center" width="100%">
